@@ -44,7 +44,7 @@
 <body>
     <div class="container">
         <?php
-            echo "<h1>¡Hola Mundo desde PHP!</h1>";
+            echo "<h1>¡Hola Mundo desde PHP y docker!</h1>";
             echo "<p>Esta página está funcionando correctamente con PHP.</p>";
             echo "<div class='info'>Servidor: " . $_SERVER['SERVER_NAME'] . "</div>";
             echo "<div class='info'>Fecha y hora: " . date('Y-m-d H:i:s') . "</div>";
